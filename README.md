@@ -1,6 +1,6 @@
 # midcli
 
-PesonalNAS Command Line Interface
+PesonalNAS Command Line Interface.
 
 ### Examples
 
