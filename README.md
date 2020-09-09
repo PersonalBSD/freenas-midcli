@@ -1,9 +1,6 @@
 # midcli
-NAS Command Line Interface
 
-Software in ALPHA state, highly experimental.\
-No bugs/features being accepted at the moment.
-
+PesonalNAS Command Line Interface
 
 ### Examples
 
